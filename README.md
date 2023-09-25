@@ -1,0 +1,1 @@
+Atividade Pratica do curso de Web Full Stack da Grodev com objetivo de praticar html e css.
