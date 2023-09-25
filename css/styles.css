@@ -1,0 +1,71 @@
+.foto_perfil {
+    border-radius: 50%;
+    width: 50%;
+}
+
+.lista_menu {
+    list-style-type: none;
+    margin-right: 50px;
+   
+}
+
+.formata_email,
+.formata_nome {
+    color: #9b641d;
+}
+
+.formata_nome_completo {
+    font-size: 50px;
+}
+
+li{
+    margin-top: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+li :hover {
+    color: black;
+    font-weight: bold;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    height: 100%;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+
+.menut {
+    width: 1%;
+    height: 5%;
+    background-color: #c5a882;
+    text-align: center;
+}
+
+.conteudot {
+    width: 3%;
+    height: 5%;
+    padding-left: 50px;
+    text-align: start;
+}
+
+.imagens_redes_sociais{
+    width: 4%;
+    margin-left: 15px;
+}
