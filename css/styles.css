@@ -69,3 +69,9 @@ table {
     width: 4%;
     margin-left: 15px;
 }
+
+.sobre_format {
+    margin-right: 50px;
+    text-align: justify;
+    font-size: 14px;
+}
