@@ -9,10 +9,10 @@
    
 }
 
-.formata_email,
 .formata_nome {
     color: #9b641d;
 }
+
 
 .formata_nome_completo {
     font-size: 50px;
@@ -22,7 +22,7 @@ li{
     margin-top: 15px;
 }
 
-a {
+.link_menu {
     text-decoration: none;
     color: white;
     font-weight: bold;
@@ -50,7 +50,6 @@ table {
     border-collapse: collapse;
 }
 
-
 .menut {
     width: 1%;
     height: 5%;
@@ -74,4 +73,8 @@ table {
     margin-right: 50px;
     text-align: justify;
     font-size: 14px;
+}
+
+.educacao_trabalho {
+    color: #9b641d;
 }
