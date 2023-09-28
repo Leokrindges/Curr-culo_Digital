@@ -17,15 +17,18 @@ html {
 
 main,
 section {
+    width: 100%;
     height: 100%;
 }
 
 .section_menu {
+    height: 100%;
     width: 20%;
     float: left;
 }
 
 .section_conteudo {
+    height: 100%;
     float: right;
     width: 80%;
     vertical-align: bottom;
@@ -38,6 +41,7 @@ section {
 }
 
 .conteudo {
+    padding-right: 50px;
     padding-left: 50px;
     height: 100%;
 }
@@ -56,7 +60,6 @@ section {
 }
 
 .link_menu {
-
     text-decoration: none;
     color: white;
     font-weight: bold;
@@ -67,23 +70,31 @@ section {
 }
 
 .imagens_redes_sociais {
-    padding-top: 15px;
+    padding-top: 10px;
     width: 4%;
     margin-left: 15px;
 }
 
-.formata_nome_completo {
+.imagens_hardskills {
+    width: 4%;
+}
+
+.text_hardSkils {
+    padding-left: 15px;
+    font-size: 25px;
+}
+
+.formata_h1 {
     padding-top: 10%;
     font-size: 50px;
 }
 
-.formata_nome {
+.formata_cor_palavra {
     color: #9b641d;
 }
 
-.sobre_format {
+.formata_paragrafo {
     padding-top: 15px;
-    margin-right: 50px;
     text-align: justify;
     font-size: 14px;
 }
