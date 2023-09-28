@@ -65,10 +65,6 @@ section {
     font-weight: bold;
 }
 
-.link_menu :hover {
-    color: black;
-}
-
 .imagens_redes_sociais {
     padding-top: 10px;
     width: 4%;
@@ -97,12 +93,4 @@ section {
     padding-top: 15px;
     text-align: justify;
     font-size: 14px;
-}
-
-.educacao_trabalho {
-    color: #9b641d;
-}
-
-.educacao_trabalho :hover {
-    color: black;
 }
