@@ -1,0 +1,10 @@
+/* Nesta folha se encontra todas os seletores que não são comuns entre as paginas, estilos que são da pagina conhecimento.hmtl */
+
+.imagens_hardskills {
+    width: 4%;
+}
+
+.text_hardSkils {
+    padding-left: 15px;
+    font-size: 25px;
+}
