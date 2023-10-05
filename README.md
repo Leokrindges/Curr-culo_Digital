@@ -1,4 +1,4 @@
-<p>Atividade Pratica do curso de Web Full Stack da Grodev com objetivo de praticar html e css.</p>
+<p>Atividade Pratica da Formação de Web Full Stack da Grodev com objetivo de praticar html e css.</p>
 
 <h2>Pagina sobre mim</h2>
 
