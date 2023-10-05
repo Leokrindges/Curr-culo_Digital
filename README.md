@@ -12,3 +12,5 @@
 
 ![Objetivos](https://github.com/Leokrindges/praticando_posicoes_com_css/assets/123202044/b9382486-125f-4ab7-acc8-7b916a8b8d2f)
 
+<p>removido folhas de estilo e adicionado lista nas paginas conhecimentos e objetivos, para se adequar ao que foi solicitado na atividade</p>
+
