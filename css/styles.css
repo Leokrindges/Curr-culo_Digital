@@ -1,56 +1,23 @@
 /*Estilos que são usados em comum em todas as páginas */
 
-* {
-    margin: 0;
-}
-
-.foto_perfil {
-    border-radius: 50%;
-    width: 70%;
-    margin-top: 30%;
-}
-
+html,
 body,
-html {
+main {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    height: 100vh;
-    width: 100vw;
-}
-
-main,
-section {
+    font-size: 18px;
+    text-align: justify;
+    padding-right: 10px;
+    height: 100%;
     width: 100%;
-    height: 100%;
-}
-
-.section_menu {
-    height: 100%;
-    width: 25%;
-    float: left;
-}
-
-.section_conteudo {
-    height: 100%;
-    float: right;
-    width: 75%;
-    vertical-align: bottom;
 }
 
 .menu {
     background-color: #9b641d;
-    height: 100%;
-    text-align: center;
-}
-
-.conteudo {
-    padding-right: 50px;
-    padding-left: 50px;
-    height: 100%;
 }
 
 .lista_menu {
     list-style-type: none;
-    padding-right: 45px;
+    padding-right: 35px;
 }
 
 .link_hover {
@@ -67,20 +34,11 @@ section {
     font-weight: bold;
 }
 
-.formata_h1 {
-    padding-top: 10%;
-    font-size: 50px;
-}
-
 .formata_cor_palavra {
     color: #9b641d;
 }
 
-.formata_paragrafo {
-    padding-top: 15px;
-    text-align: justify;
-    font-size: 14px;
-}
+
 
 /*Estilos que são da pagina conhecimento.hmtl */
 
@@ -97,6 +55,6 @@ section {
 
 .imagens_redes_sociais {
     padding-top: 10px;
-    width: 4%;
+    width: 7%;
     margin-left: 15px;
 }
