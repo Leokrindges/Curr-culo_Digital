@@ -2,7 +2,7 @@
 
 <h2>Pagina sobre mim</h2>
 
-![sobre mim](https://github.com/Leokrindges/praticando_posicoes_com_css/assets/images/123202044/393d18df-4e2c-4175-9fde-b1445aa746da)
+![sobre mim](https://github.com/Leokrindges/praticando_posicoes_com_css/images/123202044/393d18df-4e2c-4175-9fde-b1445aa746da)
 
 <h2>Página conhecimentos</h2>
 
