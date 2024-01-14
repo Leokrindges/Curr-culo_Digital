@@ -2,15 +2,17 @@
 
 <h2>Pagina sobre mim</h2>
 
-![sobre mim](https://github.com/Leokrindges/praticando_posicoes_com_css/images/123202044/393d18df-4e2c-4175-9fde-b1445aa746da)
+![sobre mim]<img src="./assets/bootstrap/images/sobre-mim.png" alt="Página sobre mim">
+
 
 <h2>Página conhecimentos</h2>
 
-![conhecimentos](https://github.com/Leokrindges/praticando_posicoes_com_css/assets/images/123202044/797fc98b-b7f4-4e19-88a7-5c4e831a070b)
+![conhecimentos]<img src="./assets/bootstrap/images/conhecimentos.png" alt="Página sobre mim">
+
 
 <h2>Página Objetivos</h2>
 
-![Objetivos](https://github.com/Leokrindges/praticando_posicoes_com_css/assets/images/123202044/b9382486-125f-4ab7-acc8-7b916a8b8d2f)
+![Objetivos]<img src="./assets/bootstrap/images/objetivos.png" alt="Página sobre mim">
 
 <p>removido folhas de estilo e adicionado lista nas paginas conhecimentos e objetivos, para se adequar ao que foi solicitado na atividade</p>
 
