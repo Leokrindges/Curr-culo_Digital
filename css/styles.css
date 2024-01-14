@@ -1,28 +1,16 @@
-/*Estilos que são usados em comum em todas as páginas */
-
-html,
-body,
-main {
+body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
     text-align: justify;
-    padding-right: 10px;
-    height: 100%;
-    width: 100%;
+    font-size: 3vh;
 }
 
 .menu {
     background-color: #9b641d;
 }
-
-.lista_menu {
-    list-style-type: none;
-    padding-right: 35px;
+.imagens_redes_sociais {
+    width: 5%;
 }
 
-.link_hover {
-    padding-top: 15px;
-}
 
 .link_hover :hover {
     color: black;
@@ -33,14 +21,14 @@ main {
     color: white;
     font-weight: bold;
 }
-
 .formata_cor_palavra {
     color: #9b641d;
 }
 
 
-
-/*Estilos que são da pagina conhecimento.hmtl */
+.imagem-perfil {
+    width:70%;
+}
 
 .imagens_hardskills {
     width: 4%;
@@ -49,12 +37,4 @@ main {
 .text_hardSkils {
     padding-left: 15px;
     font-size: 25px;
-}
-
-/* Estilos que são da pagina index.hmtl */
-
-.imagens_redes_sociais {
-    padding-top: 10px;
-    width: 7%;
-    margin-left: 15px;
 }
